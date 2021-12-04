@@ -1,6 +1,3 @@
-# SeNoCe
-Implementation details of SeNoCe
-
 # SeNoCe:Feature Partitioning Attention based DNN Model for Veracity Identification of Rumors on Twitter
 ## Introduction
 SeNoCe is an efficient Segregated Non-overlapping and Collectively exhaustive DNN model which mitigates the effects of poor utilization of resources and enhances the model performance without the aid of auxiliary information or tasks which incur good manual efforts and costs.
