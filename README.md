@@ -14,7 +14,7 @@ Anaconda 3
 ### Create Environment
 Type the following command to create the environment "man" which contains all the required packages.
 
-conda env create -f man.yml
+* conda env create -f man.yml
 
 -----------------------
 
