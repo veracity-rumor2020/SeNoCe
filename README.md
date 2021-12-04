@@ -43,5 +43,7 @@ Type the following command to create the environment "man" which contains all th
  
 
 
+## SeNoCe Architecture
 
+![](images/SeNoCe_architecture.png)
 
