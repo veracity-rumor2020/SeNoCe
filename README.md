@@ -42,10 +42,6 @@ Type the following command to create the environment "man" which contains all th
  * Additional Results are kept inside the "Results" folder.
  
 
-## SeNoCe Architecture
-
-![](images/SeNoCe_architecture.png)
-
 
 
 
