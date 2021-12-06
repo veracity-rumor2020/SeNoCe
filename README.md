@@ -25,6 +25,7 @@ Type the following command to create the environment "man" which contains all th
  * Execute "trainTestModel_Fast.py" file inside this folder.
  * Results and required files will be saved under "repo_Fast" folder.
  * Then Execute "resCal.py" file to get the Accuracy and Macro F score.
+ * Use hyperopt to tune the hyperparameters of the provided model.
 
 ### Details of SeNoCe~(A-FeAg) folder
  * This folder contains the variant "SeNoCe~(A-FeAg)" which does not contain A-FeAg module.
